@@ -8,4 +8,4 @@ The best way are :
 Thank you !
 
 ## Summary
-This is a Nice Repo
+This is a Nice Repository
